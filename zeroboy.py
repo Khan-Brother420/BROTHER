@@ -48,7 +48,7 @@ def jalan(z):
 
 ##### LOGO #####
 logo = """=======================================
-         ▃▅▇ THE MR.KHAN OFFICIAL ▇▅▃
+         ▃▅▇ THE- MR.KHAN OFFICIAL ▇▅▃
 
           → K H A N  B R O T H E ツ ← 
 
